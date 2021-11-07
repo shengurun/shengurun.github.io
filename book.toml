@@ -1,0 +1,6 @@
+[book]
+authors = ["shengurun"]
+language = "zh-hans"
+multilingual = false
+src = "src"
+title = "Patchouli Knowledge"
