@@ -5,4 +5,4 @@
 - [面试题汇总](./interview.md)
   - [Go 语言相关](./interview-golang.md)
   - [数据库和缓存](./interview-database.md)
-  - [分布式系统](./interview-distributed.md)
+  - [综合技能](./interview-all-round.md)
