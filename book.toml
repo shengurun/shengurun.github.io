@@ -1,0 +1,6 @@
+[book]
+authors = ["shengurun"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "shengurun.github.io"
